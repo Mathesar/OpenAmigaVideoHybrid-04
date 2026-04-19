@@ -1,7 +1,7 @@
-# OpenAmigaVideoHybrid
-OpenAmigaVideoHybrid is an Open Hardware implementation of the Video Hybrid integrated circuit used in some Commodore Amiga computers (Commodore Part No. 390229-0x).
+# OpenAmigaVideoHybrid-03
+OpenAmigaVideoHybrid is an Open Hardware implementation of revision-03 the Video Hybrid integrated circuit used in some Commodore Amiga computers (Commodore Part No. 390229-03).
 
-![Board](https://raw.githubusercontent.com/SukkoPera/OpenAmigaVideoHybrid/master/doc/render-top.png)
+WORK UNDER CONSTRUCTION
 
 ### Summary
 The *Video Hybrid*, also known as *VIDIOT*, is a hybrid integrated circuit acting as a Digital-to-Analog Converter (DAC), which converts the digital 4-bit per color video signal of the Amiga into standard (analog) signals suitable to drive a monitor or TV.
