@@ -2,3 +2,6 @@
 *.kicad_pcb-bak
 *.bck
 gerbers/
+/OpenAmigaVideoHybrid-backups/
+*.kicad_prl
+fp-info-cache
