@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "OpenAmigaVideoHybrid")(type "KiCad")(uri "${KIPRJMOD}/OpenAmigaVideoHybrid.pretty")(options "")(descr ""))
 )
