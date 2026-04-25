@@ -19575,7 +19575,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005b40e954")
@@ -20430,7 +20430,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 139.7 41.91 0)
 			(effects
 				(font
@@ -21113,7 +21113,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 139.7 92.71 0)
 			(effects
 				(font
@@ -21872,7 +21872,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 139.7 143.51 0)
 			(effects
 				(font
@@ -21948,7 +21948,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C25804"
 			(at 179.07 121.92 90)
 			(effects
 				(font
@@ -22024,7 +22024,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C23189"
 			(at 179.07 127 90)
 			(effects
 				(font
@@ -22100,7 +22100,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C23147"
 			(at 179.07 132.08 90)
 			(effects
 				(font
@@ -22176,7 +22176,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C22962"
+		(property "LCSC Part #" "C22966"
 			(at 218.44 110.49 90)
 			(effects
 				(font
@@ -22252,7 +22252,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C22809"
 			(at 205.74 148.59 90)
 			(effects
 				(font
@@ -22488,7 +22488,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C23140"
 			(at 233.68 133.35 90)
 			(effects
 				(font
@@ -22631,7 +22631,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 248.92 115.57 0)
 			(effects
 				(font
@@ -23162,7 +23162,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 248.92 62.23 0)
 			(effects
 				(font
@@ -23399,7 +23399,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C23265"
 			(at 205.74 110.49 90)
 			(effects
 				(font
@@ -23475,7 +23475,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C23140"
 			(at 233.68 146.05 90)
 			(effects
 				(font
@@ -24204,7 +24204,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 49.53 53.34 0)
 			(effects
 				(font
@@ -24768,7 +24768,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C22843"
 			(at 189.23 116.84 90)
 			(effects
 				(font
@@ -24911,7 +24911,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C14663"
 			(at 49.53 60.96 0)
 			(effects
 				(font
@@ -25117,7 +25117,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C23147"
 			(at 179.07 116.84 90)
 			(effects
 				(font
@@ -25193,7 +25193,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "LCSC Part #" "C22843"
 			(at 189.23 132.08 90)
 			(effects
 				(font
@@ -25515,7 +25515,7 @@
 		(at 185.42 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
